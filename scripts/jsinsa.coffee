@@ -8,4 +8,4 @@ module.exports = (robot) ->
       msg.send mergeCommit.message
 
   robot.hear /beer/, (msg) ->
-    msg.send 'It is always time for beer:beers: :beers: :beers: :beers: :beers: :beers:'
+    msg.send ':beers: :beers: :beers: :beers: :beers: :beers: Thanks For Watching'

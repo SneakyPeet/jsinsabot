@@ -1,0 +1,36 @@
+@hubot: ping
+
+@hubot: the rules
+
+@hubot: image me lady smiling with salad
+
+@hubot: pug me
+
+@hubot: pug bomb
+
+@hubot: the number of pugs in this room is TOO DAMN high
+
+@hubot: 8ball is winter coming
+
+@hubot: start vote chatops is great, chatops is meh
+@hubot: vote 1
+@hubot end vote
+
+@hubot: js me Array(16).join("lolwut" -1) + " Batman"
+
+---
+productive
+
+merge change into develop
+
+show trello
+
+@hubot: trello list "new"
+@hubot: trello move pjNTMkJG "done"
+@hubot trello new "new" Yeah New Things To Do
+
+show appveyor
+
+@hubot: deploy
+
+time for beer
